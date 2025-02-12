@@ -1,5 +1,5 @@
 <?php
-$name = "Pham Gia Hieu"; 
-$age = 25; 
+$name = "Nguyễn Văn Nhật Quang"; 
+$age = 17; 
 echo "Xin chào, tôi tên là $name và tôi $age tuổi.";
 ?>
